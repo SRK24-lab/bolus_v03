@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/ALPlayground.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/0 I AM BOLUS/0 Landing Screen.unity
+    guid: 65a07c3d677ba4d29b8f4268859d3aae
+  - enabled: 1
+    path: Assets/Scenes/0 I AM BOLUS/1 Intro Reel.unity
+    guid: 9325e7cf64a6d44c1a8d45c059e37141
+  - enabled: 1
+    path: Assets/Scenes/0 I AM BOLUS/2 Stomach.unity
+    guid: 3828089e7a0a043a9878abda35040578
+  - enabled: 1
+    path: Assets/Scenes/0 I AM BOLUS/3 Exit Reel.unity
+    guid: 6312a450295324b2eb9fb4c5ae677e49
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 854ff4d47db8e472299b56ad06f1e609, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0

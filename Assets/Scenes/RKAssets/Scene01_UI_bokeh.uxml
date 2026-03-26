@@ -1,0 +1,3 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:Image source="project://database/Assets/Scenes/RKAssets/bokeh_texture.renderTexture?fileID=8400000&amp;guid=3a733bc940885b149a12631980a7fc82&amp;type=2#bokeh_texture" enabled="true" scale-mode="ScaleToFit" style="height: 1080px;"/>
+</ui:UXML>
